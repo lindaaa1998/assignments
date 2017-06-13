@@ -10,3 +10,7 @@ This repositor contains my assignments
 [Assignment week 6](https://github.com/lindaaa1998/assignments/blob/master/assignment4.ipynb)
 
 [Assignment week 8](https://github.com/lindaaa1998/assignments/blob/master/assignment5.ipynb)
+
+[Final Python Assignment](https://github.com/lindaaa1998/assignments/blob/master/Final_Assignment_Python_1_Linda.ipynb)
+
+[Final R Assignment](https://github.com/lindaaa1998/assignments/blob/master/OECD_R_exam.ipynb)
